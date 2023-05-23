@@ -1,0 +1,14 @@
+@media (max-width:1200px){
+    #text1, #text2{
+        flex-direction: row;
+        font-size: 20px;
+        margin-inline: 10px ;
+    }
+}
+@media (max-width:320px){
+    #text1, #text2{
+        flex-direction: row;
+        font-size: 15px;
+        margin-inline: 10px ;
+    }
+}
