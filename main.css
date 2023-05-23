@@ -35,7 +35,7 @@ body {
     }
 }
 
-@media (max-width: 500px){
+@media (max-width: 700px){
     .buttonsMenu, #RAID, #SHOP, #INVENTORY, #STATS{
         margin: 0 auto;
         height: 50px;
